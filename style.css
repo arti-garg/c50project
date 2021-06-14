@@ -1,0 +1,34 @@
+h1{
+    color: lightcoral;
+    border: 10px solid dimgray;
+    background-color: dimgrey;
+}
+body{
+    background-color: aliceblue;
+}
+img{
+    border: 5px solid black;
+    border-radius: 10px;
+}
+p{
+    font-family: comic sans ms;
+    font-weight: italic;
+}
+ol,ul{
+    font-family: comic sans ms;
+}
+
+.header{
+    background-color: aquamarine;
+    display: flex;
+   
+    justify-content:center;
+}
+
+.grid{
+
+    display: flex;
+    flex-wrap: wrap;
+    color: red;
+    justify-content:stretch;
+}
